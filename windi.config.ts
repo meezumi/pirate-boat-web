@@ -8,8 +8,8 @@ export default defineConfig({
       },
       keyframes: {
         "clip": {
-          "0%": { 'clip-path': "ellipse(10% 10% at 50% 50%)" },
-          "100%": { 'clip-path': "ellipse(50% 50% at 50% 100%)" },
+          "0%": { 'clip-path': "ellipse(100% 100% at 50% 50%)" },
+          "100%": { 'clip-path': "ellipse(160% 160% at 50% 160%)" },
         },
       },
     },
